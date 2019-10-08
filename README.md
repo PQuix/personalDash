@@ -6,3 +6,7 @@ Goals include, but are not limited to reading and writing to a MySQL database, c
 
 Timeframe for the project is set for 24. December.
 Desired result is to be stable enough to support the team in meaningful ways.
+
+Edit Oct. 2019:
+Project has been abandoned, no further work to be done.
+No work was committed to the repo, though it remains stored locally.
